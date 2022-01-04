@@ -1,0 +1,20 @@
+{
+  "name": "011_blog_api",
+  "version": "1.0.0",
+  "description": "* id (고유)\r     * title\r     * content\r     * section\r     * pubDate\r     * modDate\r     * viewCount\r     * like",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.5.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "helmet": "^5.0.1",
+    "morgan": "^1.10.0",
+    "nunjucks": "^3.2.3"
+  }
+}
